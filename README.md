@@ -1,5 +1,5 @@
 This is my personal portfolio website built using HTML, CSS, and Bootstrap.
-It showcases my skills, education, projects, and contact information
+It showcases my skills, education, projects, and contact information.
 
 ⭐ Show Your Support
 
